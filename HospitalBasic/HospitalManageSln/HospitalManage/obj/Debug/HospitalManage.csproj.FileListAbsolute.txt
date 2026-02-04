@@ -1,0 +1,7 @@
+D:\Users\User\Desktop\C#Code\HospitalBasic\HospitalManageSln\HospitalManage\bin\Debug\HospitalManage.exe.config
+D:\Users\User\Desktop\C#Code\HospitalBasic\HospitalManageSln\HospitalManage\bin\Debug\HospitalManage.exe
+D:\Users\User\Desktop\C#Code\HospitalBasic\HospitalManageSln\HospitalManage\bin\Debug\HospitalManage.pdb
+D:\Users\User\Desktop\C#Code\HospitalBasic\HospitalManageSln\HospitalManage\obj\Debug\HospitalManage.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\C#Code\HospitalBasic\HospitalManageSln\HospitalManage\obj\Debug\HospitalManage.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\C#Code\HospitalBasic\HospitalManageSln\HospitalManage\obj\Debug\HospitalManage.exe
+D:\Users\User\Desktop\C#Code\HospitalBasic\HospitalManageSln\HospitalManage\obj\Debug\HospitalManage.pdb
