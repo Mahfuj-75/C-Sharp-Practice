@@ -1,0 +1,7 @@
+D:\Users\User\Desktop\C#Code\BasicCode3Sln\BasicCode3\bin\Debug\BasicCode3.exe.config
+D:\Users\User\Desktop\C#Code\BasicCode3Sln\BasicCode3\bin\Debug\BasicCode3.exe
+D:\Users\User\Desktop\C#Code\BasicCode3Sln\BasicCode3\bin\Debug\BasicCode3.pdb
+D:\Users\User\Desktop\C#Code\BasicCode3Sln\BasicCode3\obj\Debug\BasicCode3.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\C#Code\BasicCode3Sln\BasicCode3\obj\Debug\BasicCode3.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\C#Code\BasicCode3Sln\BasicCode3\obj\Debug\BasicCode3.exe
+D:\Users\User\Desktop\C#Code\BasicCode3Sln\BasicCode3\obj\Debug\BasicCode3.pdb
