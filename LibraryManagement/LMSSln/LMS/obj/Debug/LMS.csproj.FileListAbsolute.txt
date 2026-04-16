@@ -1,0 +1,8 @@
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\bin\Debug\LMS.exe.config
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\bin\Debug\LMS.exe
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\bin\Debug\LMS.pdb
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\obj\Debug\LMS.exe
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\obj\Debug\LMS.pdb
+D:\Users\User\Desktop\C#Code\LibraryManagement\LMSSln\LMS\obj\Debug\LMS.exe.config
