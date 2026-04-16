@@ -1,0 +1,7 @@
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\bin\Debug\OOP.exe.config
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\bin\Debug\OOP.exe
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\bin\Debug\OOP.pdb
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.exe
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.pdb
