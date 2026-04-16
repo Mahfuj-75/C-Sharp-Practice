@@ -5,3 +5,4 @@ D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.csproj.AssemblyReference.c
 D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
 D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.exe
 D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.pdb
+D:\Users\User\Desktop\C#Code\OOPSln\OOP\obj\Debug\OOP.exe.config

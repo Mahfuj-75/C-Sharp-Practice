@@ -51,6 +51,12 @@ namespace OOP
     {
         static void Main(string[] args)
         {
+            Person s1 = new Student("Mahfuj", 75);
+            Person p2 = new Teacher("Rahman", "C# Programming");
+
+            s1.ShowInfo();
+            Console.WriteLine("--------");
+            p2.ShowInfo();
         }
     }
 }
