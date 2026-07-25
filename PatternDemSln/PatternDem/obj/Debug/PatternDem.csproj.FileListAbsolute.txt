@@ -1,0 +1,8 @@
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\bin\Debug\PatternDem.exe.config
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\bin\Debug\PatternDem.exe
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\bin\Debug\PatternDem.pdb
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\obj\Debug\PatternDem.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\obj\Debug\PatternDem.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\obj\Debug\PatternDem.exe
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\obj\Debug\PatternDem.pdb
+D:\Users\User\Desktop\Courses\C#Code\PatternDemSln\PatternDem\obj\Debug\PatternDem.exe.config
