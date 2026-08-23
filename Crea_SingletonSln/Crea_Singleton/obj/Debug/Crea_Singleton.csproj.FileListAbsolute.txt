@@ -1,0 +1,8 @@
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\bin\Debug\Crea_Singleton.exe.config
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\bin\Debug\Crea_Singleton.exe
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\bin\Debug\Crea_Singleton.pdb
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\obj\Debug\Crea_Singleton.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\obj\Debug\Crea_Singleton.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\obj\Debug\Crea_Singleton.exe
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\obj\Debug\Crea_Singleton.pdb
+D:\Users\User\Desktop\Courses\C#Code\Crea_SingletonSln\Crea_Singleton\obj\Debug\Crea_Singleton.exe.config
