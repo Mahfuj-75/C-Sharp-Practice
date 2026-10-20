@@ -1,0 +1,8 @@
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\bin\Debug\Singlaton.exe.config
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\bin\Debug\Singlaton.exe
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\bin\Debug\Singlaton.pdb
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\obj\Debug\Singlaton.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\obj\Debug\Singlaton.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\obj\Debug\Singlaton.exe
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\obj\Debug\Singlaton.pdb
+D:\Users\User\Desktop\Courses\C#Code\SinglatonSln\Singlaton\obj\Debug\Singlaton.exe.config
