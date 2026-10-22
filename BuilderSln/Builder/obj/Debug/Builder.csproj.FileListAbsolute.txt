@@ -1,0 +1,8 @@
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\bin\Debug\Builder.exe.config
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\bin\Debug\Builder.exe
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\bin\Debug\Builder.pdb
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\obj\Debug\Builder.exe
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\obj\Debug\Builder.pdb
+D:\Users\User\Desktop\Courses\C#Code\BuilderSln\Builder\obj\Debug\Builder.exe.config
