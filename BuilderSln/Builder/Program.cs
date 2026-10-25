@@ -15,6 +15,7 @@ namespace Builder
         public void Show()
         {
             Console.WriteLine(Size + " Pizza with " + Topping);
+            //Console.WriteLine(Size +" add onions " + Topping) 
 
         }
     }
